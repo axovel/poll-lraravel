@@ -1,0 +1,13 @@
+approve_by_comment: true
+approve_regex: '^:\+1:'
+reject_regex: ^Rejected
+reset_on_push: true
+reviewers:
+  members:
+  - appelsiini
+  - andvla
+  - almcewen
+  - hungnq1989
+  - sass777
+  name: pullapprove
+  required: 1
