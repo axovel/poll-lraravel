@@ -1,9 +1,4 @@
-# Kansanaani Web Application
-### All project resources will be found from Confluence & Jira
-* https://finternet.atlassian.net/wiki/display/KANSANAANI
-* https://finternet.atlassian.net/browse/KANSANAANI
-
-## Technical Requirements
+Technical Requirements
 * PHP >= v5.6
 * MySQL >= v5.5
 * Laravel Framework >= v5.2
